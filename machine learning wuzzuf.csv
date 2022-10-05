@@ -1,0 +1,940 @@
+title,company name,location,city,country,type,level,experience,skills,Description,Requirements,Image link
+AI/ML,SURE International Technology,,Cairo,Egypt,['Full Time'],Manager,· 5+ Yrs of Exp,"['IT/Software Development', 'Operations/Management', 'Engineering - Telecom/Technology', 'Computer Science', 'Python', 'Artificial Intelligence', 'AI', 'Machine Learning', 'Engineering', 'Azure']","Lead, mentor, and advise the ML team members.
+Identify the most effective architectures and models to solve complex data problems.
+Research and implement appropriate ML algorithms and tools using deep learning and artificial neural networks.
+Designing AI/ML pipelines.
+Extend existing ML libraries and frameworks.
+The document, summarize and present findings to a group of peers and stakeholders across multiple projects.","Bachelor’s degree in Statistics, Computer Science, or in an Engineering or Sciences discipline or related degree
+At least 5 years experience in analytics, data science, ML Engineering
+At least 1-2 years of experience leading, mentoring, and developing either Machine Learning, Data Science, or Analytics practitioners.
+Experience with building and deploying a range of deep learning models into production
+Experience with Cloud Services - Amazon Web Services (AWS)
+Highly proficient in ML and Deep learning algorithms with a hands-on project.
+Strong experience working with big data tools: Hadoop, Spark, Kafka, etc.
+Extensive Python experience required.
+Experience with Agile tools like Jira.
+Able to communicate technical issues with technical & non-technical stakeholders.
+Ability to quickly prototype ideas and solve complex problems by adapting creative approaches,",https://images.wuzzuf-data.net/files/company_logo/SURE-International-Technology-Egypt-21250-1516284267-sm.jpg
+Senior Machine learning Engineer,Botit,Abdeen, Cairo,Egypt,['Full Time'],Experienced,· 3 - 7 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Machine Learning', 'Python', 'NLP', 'Software', 'Research', 'Git', 'Algorithms', 'Statistics']","As a part of the AI team, the candidate will participate in BOTH machine learning research and software development activities, working on data preprocessing, building, tuning, training and evaluating machine learning and deep learning models for NLU, NLP and recommendation systems. 
+He/She will go through all the stages of the software development lifecycle including design, documentation, implementation, testing and deployment.
+
+ ","Experience in using version control systems (eg. GIT)
+  Good understanding of software development life cycle
+  Experience using python is preferred
+  Hands-on experience in data preprocessing, model building, training and evaluation
+  Experience with NLP is preferred
+  Familiarity with chatbots is a plus
+  Good understanding of data structures, data modeling and software architecture
+  Deep knowledge of math, probability, statistics and algorithms
+  Experience in understanding and implementing SOTA techniques research papers
+  Experience in web-based applications is preferred",https://images.wuzzuf-data.net/files/company_logo/Botit-Egypt-46033-1581409220-sm.png
+ML Engineer,TensorGraph,Maadi, Cairo,Egypt,"['Part Time', 'Freelance']",Entry Level,· 1+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'AI', 'Computer Science', 'NLP', 'ML', 'Machine Learning', 'Information Technology (IT)', 'Python']","TensorGraph is looking for an “ML Engineer - Recommendation System” who is passionate about personalizing ML models, recommender systems, and disciplines. Also will help in conversational AI and language understanding models. 
+Build and Improve the existing recommendation system
+Design and implement the new approaches in recommendation systems
+Set the System evaluation KPIs and Golden data
+Analysis the historical data to choose the right approach","BA in Computer Science and similar fields
+has 1+ years in recommendations systems
+Have a strong background in machine learning, with experience and expertise in personalized machine learning algorithms, especially recommender systems
+Nice to have experience in Conversational AI Models and working with Language understanding Models.
+Experience with python, Nodejs
+Experience with ML frameworks and libraries
+Ability to write “Robust and testable codes.”
+Statistical Analysis",https://images.wuzzuf-data.net/files/company_logo/TensorGraph-Egypt-32724-1636296196-sm.png
+Senior Computer Vision Engineer,wobot.ai,,New Delhi,India,"['Full Time', 'Work From Home']",Senior Management,· 3 - 6 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'TensorFlow', 'Python', 'PyTorch', 'CNN', 'yolo', 'Computer Vision', 'Deep Learning', 'Video Intelligence']","Description:
+This is a senior role where you will be responsible for leading a team of computer vision developers and work on the below mentioned roles and responsibilities.
+Roles and Responsibilities:
+Analyze and Improve the Existing Data, Training & Inference Architecture for existing Use-Cases.
+Pioneer Novel Algorithms for new use-cases to develop an elegant and robust solution to solve problem statements using Computer Vision.
+Work on Model Optimization to improve Performance & Throughput for the same.
+Work on Various SOTA Dataset Augmentation & Dataset Generation Techniques that help improve model accuracy & precision.
+Work on development & improvement of End-to-End Pipeline use-cases running at scale.
+Work with the existing teams to set up a re-training pipeline that iteratively improves existing model accuracy based on in-coming datasets.
+
+How we work?
+Microsoft Teams is our go to tool for daily communication
+We conduct daily standups and team meetings over Teams
+We encourage open discussion and debate, and place tremendous value on ownership and founder mindset.
+We value: design + amazing UI/UX, documentation, To-Do lists and Data based decision.
+We're distributed but not alone! We might be working around the world but we believe in the value in getting to know each other outside of working hours
+We get together for a bi-weekly townhall and frequent destressing session with a certified healer!
+Perks and Benefits:
+100% remote workplace model
+Health Insurance of Rs. 3L
+Top performers eligible for attractive equity options
+Mental Health Consultations with heyy app.
+Company sponsored upskilling courses
+Growth Hours: 40 hours every year
+The chance to give back with 40 hours for community causes
+Fun company retreats twice a year
+Access to a Financial Advisor","Requirements:
+Proficient with Training of Detection/Classification/Segmentation Models with Tensorflow/PyTorch
+Good Theoretical and Practical Knowledge with the fundamentals of Deep Learning, eg. CNNs, Regularization Techniques, etc.
+Proficient in developing Deep Learning Model Pipelines
+Deployment of Deep Learning Models at Scale for live processing of video feeds (RTSP).
+Experience with Model Servers: Triton Inference Server (Preferred), TensorFlow Serving, or Torch Serve.
+Experience in working with Model Optimization for  Nvidia Hardware (TensorRT Conversion of both Tensorflow & Pytorch models)
+Experience with both Cloud as well as Edge Deployment of Deep Learning Models (Preferably at Scale).
+Experience in FP16/Mixed Precision and INT8 Optimized Inference on Nvidia Hardware
+Experience with using Docker, Nvidia-Docker, Nvidia NGC containers for Computer Vision/Deep Learning.
+Proficient in Data Structures & Algorithms
+Proficient understanding of code versioning tools, such as (Git / Mercurial / SVN)
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Knowledge of a state management library such as Redux, etc.
+
+Good to have
+Experience with Scalable Cloud Deployment Architecture for Video Analytics (Involving Kubernetes and/or Kafka)
+Experience in INT8 Training (Quantization Aware Training)
+Experience/Knowledge of TensorFloat32 and BFloat16 Training/Inference",https://images.wuzzuf-data.net/files/company_logo/1396562030633536251cd78-sm.png
+Senior/Mid Senior Deep Learning Engineer,Confidential,Mokattam, Cairo,Egypt,['Full Time'],Experienced,· 4+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Artificial Intelligence', 'Computer Science', 'Deep Learning', 'Design', 'Information Technology (IT)', 'Machine Learning', 'Python', 'Software Engineering']","Reviewing, replicating, and mapping research papers when needed
+Staying up to date with state-of-the-art deep learning tools and papers on application adopted by the company
+Applying and ensuring best practices in terms of deep learning code reproducibility, automation, deployment, and maintainability
+Applying and ensuring best practices in terms of data collection, storage, and pre-processing
+Continuously reviewing and optimizing existing models and pipelines","Completed Master’s degree or higher in Artificial Intelligence, Computer Science or similar
+Significant (4+ years) industry experience bringing large-scale deep learning models into production (at a senior level) - Experience in MLOps is a must
+Experience with dealing with real-world, noisy and often limited datasets
+Strong fundamentals in probability theory, information theory, statistics, linear algebra, computer science, data structures, code optimization and algorithms
+Deep familiarity/experience with Python, PyTorch/TensorFlow/ transformers (hugging face), pandas, numpy, etc.; embodied in Published paper implementations, Open Source Contributions, Github Projects, etc.
+Functional design, and/or translating of a functional design into a solution
+Results-oriented, proactive and decisive
+Strong communication and ownership skills
+A curious, creative, and analytical mindset","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAulBMVEUAAAC/v7+/v7+vv8+vt8exvsu1usqzvcuyu8izu8izu8ezusizvMm0vMiyusqzusmzu8q0u8iyu8iyusizu8mzusiyvMmzvMq0usmzusmyvMi0u8mzu8q0u8mzvMmzu8m0usqzu8q0u8izu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8qzu8mzu8mzu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8n///+qvQnLAAAAPHRSTlMABAgQICcwNjg8QEpQWGBkZXB0foCCiJScoKOmrLCyuLq/xM7Q09bZ4OHi5OXn6Ozu8PHy8/T29/r7/f6LHBTRAAAAAWJLR0Q90G1RWQAAAcpJREFUWMPtmFtPwkAYRBHWokUrrXipWuSmVLxWsIJ+//93earZB9FtSqhoZOdhhgnkEFiaASoVKyur1WunhXZKhoaCQgstSVsuOs+g59mtrVKgsXxSbKF/DqrEKLUm0JckSZ5IIiGeiJeloQPSJauVSpVwqYM1gl4qpXbJTaU2iV3q5d88/aHjOHtk3XHqxB51aE9/Oeg0juM78iqOr4g76nRp6I3v+0dk4PsBcUS9WQCq3M+q5b/82tzDv3+a1txH0c2HunMPb/029CEMw2z0T8LwJJt+6sNi0E4URTO5xfsa+kjpke0oahM96qOG9im3MsM7OdDszU4kwr0iL9+jRJJ8fE7+ATTwPC+VPn6soSPKIdn0vCZxSB1p6DGlLyke5EDH7+s2w1MNNQ4f0JQye79rbA/KBN1m1sbSwQMNNQ4f0IDSkTG+vdhlahy+wpdpg1mbSBff11Dj8AHdp3Rlgjfs6Zug18zaq6T4vYYahw/oPSWVV/w6B3rArD3LBX6qocbhA3pKuZBn/MAelAl6xqxNZYT3igxfjzKSKX626svUQtcW+vX7adU1qlrw+2n52lAlaKP4j7viUquA1lolqGb/Eray+gG9ASKwq1bDF0K7AAAAAElFTkSuQmCC"
+Data Scientist,Confidential,,Riyadh,Saudi Arabia,['Full Time'],Experienced,· 2 - 4 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Computer Science', 'Data Science', 'Hadoop', 'Information Technology (IT)', 'Machine Learning', 'Naive Bayes', 'Programming']","Selecting features, building, and optimizing models using machine learning
+techniques
+Data mining using state-of-the-art methods
+Enhancing data collection procedures to include information that is relevant for
+building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating automated anomaly detection systems and constant tracking of its
+performance
+Provide clear insights that help define strategy, and facilitate speed and accuracy of
+decision-making, and ultimately make a positive impact on the business.
+Work in the opportunity, investigate, and explore phases of product development to
+identify the biggest and most valuable consumer needs and motivations
+Have a strong toolkit for quantitative and qualitative methods to apply in problem-
+solving
+Translate business questions into learning plans and then lead, develop, design and
+conduct primary research studies to enable the synthesis of data to develop insights.
+Ensure effective communication of market data, including synthesizing them into
+insights for action
+Manage third-party vendors to ensure learning objectives are met, and quality research
+standards are maintained
+Find opportunities to develop and champion the use of new research methods to
+address unique research challenges and evolving trends
+Remain abreast of best practices within the discipline and research methods
+employed, including the latest evolution of approaches as the industry develops
+Coordinate multiple tasks simultaneously, meeting deadlines and working
+productively and efficiently under pressure","Strong applied mathematical and statistical skills regardless of the tools.
+Excellent written and verbal communication skills for coordinating across teams.
+Knowledge of a variety of machine learning techniques (clustering, decision tree
+learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Data-oriented personality.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good understanding of data mart schemas, and OLAP tools.
+Good understanding of data visualization concepts and tools.
+Good understanding of using query languages such as SQL.
+Broad understanding of databases (e.g. Oracle PL/SQL, Mongo), and high-
+the performance or distributed processing (e.g. Hadoop, Spark)
+Deep understanding of probability, statistics and machine learning theory.
+Experience with Python, Machine learning libraries, and data mining.
+Good scripting and programming skills Python, R Data-oriented personality.
+Must have a good understanding of machine/deep learning techniques and algorithms
+(SVM, Naive Bayes, Decision Forests, Neural Networks, etc.)
+Applied experience with machine learning on large datasets.
+Demonstrated skills in selecting the right statistical tools given a data analysis
+problem.
+Experience with statistical software (e.g., R, Julia, MATLAB, pandas) and database
+languages (e.g., SQL).
+Advanced level in Microsoft Excel
+Build, test and deliver new analytics/models using the new data sets as required to
+underpin use case.
+Excellent understanding of machine learning techniques and algorithms such as k-
+NN, Naive Bayes, SVM, Decision Forests, etc. Experience with common data science
+toolkits.","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAulBMVEUAAAC/v7+/v7+vv8+vt8exvsu1usqzvcuyu8izu8izu8ezusizvMm0vMiyusqzusmzu8q0u8iyu8iyusizu8mzusiyvMmzvMq0usmzusmyvMi0u8mzu8q0u8mzvMmzu8m0usqzu8q0u8izu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8qzu8mzu8mzu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8n///+qvQnLAAAAPHRSTlMABAgQICcwNjg8QEpQWGBkZXB0foCCiJScoKOmrLCyuLq/xM7Q09bZ4OHi5OXn6Ozu8PHy8/T29/r7/f6LHBTRAAAAAWJLR0Q90G1RWQAAAcpJREFUWMPtmFtPwkAYRBHWokUrrXipWuSmVLxWsIJ+//93earZB9FtSqhoZOdhhgnkEFiaASoVKyur1WunhXZKhoaCQgstSVsuOs+g59mtrVKgsXxSbKF/DqrEKLUm0JckSZ5IIiGeiJeloQPSJauVSpVwqYM1gl4qpXbJTaU2iV3q5d88/aHjOHtk3XHqxB51aE9/Oeg0juM78iqOr4g76nRp6I3v+0dk4PsBcUS9WQCq3M+q5b/82tzDv3+a1txH0c2HunMPb/029CEMw2z0T8LwJJt+6sNi0E4URTO5xfsa+kjpke0oahM96qOG9im3MsM7OdDszU4kwr0iL9+jRJJ8fE7+ATTwPC+VPn6soSPKIdn0vCZxSB1p6DGlLyke5EDH7+s2w1MNNQ4f0JQye79rbA/KBN1m1sbSwQMNNQ4f0IDSkTG+vdhlahy+wpdpg1mbSBff11Dj8AHdp3Rlgjfs6Zug18zaq6T4vYYahw/oPSWVV/w6B3rArD3LBX6qocbhA3pKuZBn/MAelAl6xqxNZYT3igxfjzKSKX626svUQtcW+vX7adU1qlrw+2n52lAlaKP4j7viUquA1lolqGb/Eray+gG9ASKwq1bDF0K7AAAAAElFTkSuQmCC"
+Senior Data Scientist,BBI-Consultancy,Nasr City, Cairo,Egypt,['Full Time'],Experienced,· 3 - 5 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Computer Science', 'Data', 'Data Science', 'data scientist', 'Information Technology (IT)', 'Python', 'Statistics']","Identify valuable data sources and automate collection processes
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams","BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred.
+3-5 Years of proven experience as a Data Scientist.
+Experience in DataRobot or any similar tool
+Experience in data mining
+Understanding of machine-learning and operations research
+Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset
+Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)
+Analytical mind and business acumen
+Strong math skills (e.g. statistics, algebra)
+Problem-solving aptitude
+Excellent communication and presentation skills",https://images.wuzzuf-data.net/files/company_logo/BBI-Consultancy-Egypt-1113-1518334605-sm.png
+Senior Computer Vision Engineer,Atomica,,Cairo,Egypt,"['Full Time', 'Work From Home']",Experienced,· 4+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Computer Engineering', 'Mathematics', 'Software Development', 'Software Engineering', 'C++', 'Git', 'Research', 'computer']","Atomica.ai is a US-based company that helps doctors provide the best patient care possible using the power of AI, Robotics, and 3D Printing.
+Atomica is looking for Senior Computer Vision Engineers to join our growing AI team. You will design and create in-house algorithms and libraries to process medical images (DICOMs) and 3D models to recognize patient features and help automate manual tasks. You will also work with other engineers and data scientists allowing you to learn new skills.
+Our teams are fully remote and are distributed among many locations, We meet physically as a group once every six weeks.
+Responsibilities:
+Maintain our computer vision libraries
+  Explore and analyze medical images through image processing
+  Implement various segmentation techniques
+  Explore and analyze 3D models
+  Research, develop, evaluate and optimize various computer vision and deep learning models for different problems
+  Communicate with other teams to gather requirements
+  Create unit tests, documentation, and examples for the maintained libraries","Bachelor's degree in the areas of Computer Science/Computer Engineering, Engineering or any other related fields
+Good command of English
+Technical skills:
+At least 3 years of experience with C/C++
+  At least 3 years of experience with Image Processing and Computer Vision
+  Experience in Mathematics (linear algebra/statistics)
+  Ability to implement and prototype research papers
+  Familiarity with source control tools (git)
+  Experience with any machine/deep learning frameworks like Tensorflow and PyTorch is a plus
+  Experience with high-performance computing (vectorization, multi-threading) is a plus
+Communication
+Teamwork
+Problem-solving
+Time management
+Flexibility & Adaptability",https://images.wuzzuf-data.net/files/company_logo/846721096621648c7862a0-sm.png
+Data Scientist,Seoudi Supermarket,Sheikh Zayed, Giza,Egypt,['Full Time'],Entry Level,· 1 - 4 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Data Science', 'Programming', 'Machine Learning', 'Python', 'Data Analytics', 'Computer Science', 'Information Technology (IT)']","Analyze raw data: assessing quality, cleansing, structuring for downstream processing.
+ Design accurate and scalable prediction algorithms.
+ Collaborate with engineering team to bring analytical prototypes to production.
+ Generate actionable insights for business improvements.
+
+Work Conditions
+Full-time job (On-site).
+Location: Sheikh Zayed, Giza.
+2 days off  (Friday and Saturday)","Bachelor's degree or equivalent experience in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)
+ At least 1 - 4 years' of experience in quantitative analytics or data modeling.
+ Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms.
+ Fluency in a programming language (Python, C,C++, Java, SQL).
+ Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau).
+ ",https://images.wuzzuf-data.net/files/company_logo/United-Grocers-Egypt-16038-1604501330-sm.png
+Mechanical Production Engineer,ATA Electronics,6th of October, Giza,Egypt,['Full Time'],Entry Level,· 0 - 5 Yrs of Exp,"['Manufacturing/Production', 'Engineering - Mechanical/Electrical', 'AutoCAD', 'Engineering', 'English', 'Manufacturing', 'Mechanical', 'Mechanical Engineering', 'Microsoft Office', 'Production']","Responsible for achieving production plan for each production line in accordance to predetermined standards and product special controls
+Work effectively with team members of all disciplines, working on increasing production capacity and decreasing waste and Proficiency in MS Office.
+Cooperate and communicate effectively with production team
+Follow up maintenance process to raise efficiency.
+Reviewing the materials needed for the production process.
+Reporting emergency equipment malfunctions.
+Participate in the development of manufacturing processes by studying production requirements.
+Fulfill any additional tasks as per job need.
+Review product design for compliance with engineering principles, company standards and customer contract requirements, and related specifications.
+Understand mold making, prototyping and product testing.","Experience 0 - to 5 years in metal forming and press machines.
+Familiarity with various manufacturing methods (e.g., molding, welding, soldering, adhesives, machining, stamping, cables manufacturing, injection machines and forming.)
+Bachelor’s degree in mechanical engineering is a must.
+Good knowledge of Solid works, AutoCAD, CorelDraw, Sheet Metal and Microsoft office.
+Very good command of English.
+Learning & researching.
+Decision making ability and leadership skills.",https://images.wuzzuf-data.net/files/company_logo/ATA-Electronics-Egypt-52018-1582633288-sm.jpg
+Senior Data Engineer,Worex,Maadi, Cairo,Egypt,['Full Time'],Experienced,· 3 - 5 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Information Technology (IT)', 'Machine Learning', 'Computer Science', 'Big Data']","New data integrations, DataOps, troubleshooting & automation & Teradata migration and transformations
+Create and maintain, with the team, an optimal data pipeline architecture. 
+Build, deploy, and maintain distributed data analytics systems using Hadoop/Spark, Python, Java , Go , Scala, and C/C++ 
+Assemble large, complex data sets that meet functional / non-functional requirements. 
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc. 
+Build the infrastructure required for optimal loading of data from a wide variety of data sources using SQL and big data technologies. 
+Work with stakeholders including the Data and Design teams to assist with data-related technical issues and support their data infrastructure needs. 
+Identify gaps and improve the platform’s quality, robustness, and speed 
+Meet customer requirements in terms of availability, reliability, functionality, and performance","Results-oriented, determined and having a self-driven attitude 
+Deep Understanding of CS (Data Structure , Algorithms , Data Sterilization , Discreate Mathematics , CLI , Shell Scripting , networking, and corn jobs ) 
+Proven Experience in programming languages like (Java , Python , Scala) 
+Deep understanding of relational and non-relational databases 
+Basics understanding and implementing Machine Learning (TensorFlow, Spark MiLB) 
+Experience building and optimizing ‘big data’ data pipelines, architectures, and data sets. In both batch and real-time data integration.",https://images.wuzzuf-data.net/files/company_logo/Worex-Egypt-58786-1606135536-sm.png
+Mechanical Engineer,Eagle Chemicals,6th of October, Giza,Egypt,['Full Time'],Entry Level,· 1 - 3 Yrs of Exp,"['Manufacturing/Production', 'Engineering - Mechanical/Electrical', 'AutoCAD', 'Mechanical Engineering', 'Mechanical', 'Production Engineering', 'Maintenance', 'Machines', 'Leadership', 'Production']","Perform overall quality control of the work (budget, schedule, plans, personnel’s performance) and report regularly on project status.
+Develop installation bid packages, get quotes and order.
+Cooperate and communicate effectively with production team.
+Follow up maintenance process to raise efficiency
+Upgrade existing equipment to improve efficiency","Bachelor’s degree in mechanical engineering.
+1 to 3 years’ experience.
+Professional user of AutoCAD and Microsoft office.
+Decision making ability and leadership skills.
+Very good command of English.
+Learning & Researching.
+Decision making ability and leadership skills.",https://images.wuzzuf-data.net/files/company_logo/Eagle-Chemical-Egypt-12429-1497346001-sm.jpg
+Research Software Development Engineer,TensorGraph,Maadi, Cairo,Egypt,['Full Time'],Experienced,· 2 - 4 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Development', 'Computer Science', 'Software Development', 'Software', 'NodeJS', 'Software Engineering', 'Information Technology (IT)']","TensorGraph AI is looking for ""Research Software Development Engineer L2"" who has strong analytical and programming skills, passionate about technology, highly motivated to make an impact, eager to learn and grow, and can develop quick prototypes as well as integration of large complex systems and handling large volumes of data.
+Our work environment offers opportunities to conduct applied research, to incubate innovative ideas and technologies, to grow in-depth expertise and to interact with the top experts in the field.
+The passionate candidate will be in charge of the following:
+Designing, coding and releasing complex software components
+Collaborate with scientists to integrate successful experiments into large scale, highly complex production services.
+Build complex systems that turn machine/deep learning and AI research into commercial products for our customers.
+Development of machine learning experimentation pipelines and contribute to model development and AI progression (investigation, research, analysis and experimentation).
+Rapidly design and conduct large scale experiments in a high-ambiguity environment, making use of both quantitative and qualitative judgments.
+Interact with security engineers and related domain experts to dive deep into the types of challenges that we need innovative solutions for
+Data ingestion from multiple sources, data organization, preprocessing, cleansing
+Effective data storage, migration and unification
+Deployment of services on the cloud and subsequent support and maintenance","Bachelor's degree in Computer Science or a related field required.
+2 to 4 years of hands-on experience.
+Top notch investigation skills
+Experience in Machine Learning (Must) and computer vision would be a (plus).
+Software development experience using both native (C++) and managed (C#) programming (Plus)
+Proficiency with one high level managed programming languages such as NodeJs, C# or JavaEE..
+Proficiency with scripting languages such as Windows PowerShell, Perl, Python, etc (Plus)
+Experience with cloud computing environments, specifically Aws. (Plus)
+Technical competence (algorithms, data structures) and strong analytical and programming skills.
+Good tolerance for ambiguity and uncertainty.
+Good communication skills and cross-organizational interactions.
+Very good communication skills
+Problem-solving skills
+Adaptability and flexibility
+Accuracy and attention to details
+Excellent organizational skills
+Time and stress management skills
+Ability to learn new concepts
+Ability to think analytically
+Leadership and decision-making skills
+Self-motivation",https://images.wuzzuf-data.net/files/company_logo/TensorGraph-Egypt-32724-1636296196-sm.png
+Product Analyst,Unifonic,,Cairo,Egypt,"['Full Time', 'Work From Home']",Experienced,· 4+ Yrs of Exp,"['IT/Software Development', 'Project/Program Management', 'Engineering - Telecom/Technology', 'Terraform', 'Computer Engineering', 'Engineering', 'English', 'Information Technology (IT)', 'Software', 'Software Development']"," Unifonic is a customer engagement platform that enables organizations to delight customers with remarkable omnichannel experiences. By unifying communication channels, messaging apps, and chatbots, Unifonic streamlines conversations at every touchpoint throughout the customer journey.
+ Product Principle: We build products that take the complexity out of business communication.
+Our Approach: We are a team of missionaries that are passionate about learning, accountable to product success, have a deep understanding of our business context, and have tangible empathy for our customers.
+ Product Analyst
+The Product team at Unifonic is on the lookout for a talented Product Analyst to focus on building and launching transformative communication products for our clients. In this role, you will collaborate with product managers and engineers to co-develop a roadmap and drive products and features from concept to launch in a fast-paced environment. The responsibilities of the Product Analyst include but are not limited to:
+
+ Translate market requirements and user stories into detailed functional requirements for new product features that meet market needs.
+Translate product roadmap features into well-defined product requirements including features, user stories, and acceptance test criteria.
+Groom development backlog based on Product Management priorities.
+Design user interface of new features in accordance with accepted UI/UX principles and internal design standards.
+Facilitate developers by refining unclear requirements and removing other obstacles during development.
+List acceptance criteria for new features and perform user acceptance testing on iterative internal releases.
+Review QA test plans for completeness, care, and precision.
+Communicate development status to all internal stakeholders and schedule regular internal demos of in-progress features.
+Train internal Support and Professional Services teams on new features and functionality.
+Remember each project’s place in the overall product roadmap and respond when changes to one affect the other.
+Provide Technical Writer with information as necessary.
+Work with cross-functional teams and various stakeholders, including analytics, design/user experience, engineering, and user enablement.
+Work in an Agile environment and continuously reviews the business needs, refines priorities, outlines milestones and deliverables, and identifies opportunities and risks.
+Participate in communications between product managers & stakeholders and customers across the organization to inform the product vision, strategy, features, and prioritization.
+Co-own, and executes product roadmap.
+Prioritize and maintains the sprint backlog for assigned products, balancing the requirements of stakeholders."," Requirements:
+Bachelor’s degree and 4 years of product or project development experience
+Exposure to work with ML/AI team and understand how chatbots are created.
+Understand the design behavior of chatbots.
+Deep expertise in two or more areas: chatbots, conversational interfaces, NLP, machine learning, artificial intelligence (AI), data analytics.
+Identify new integrations needs and write functional requirements for them
+Assist in design, build and deployment of conversational flows for various channels (web, whatsapp, fb messenger, twitter dm)
+Help with the buildout of new intents, including collecting historical utterances, training intents, conversational design and optimization.
+Qualifications / Skills:
+ Balance of technical knowledge and business acumen
+Knowledge of Agile principles and SCRUM.
+Customer-first, ABCD thinking mindset
+Proactive, self-starter with excellent project management skills and ability to manage multiple tasks effectively
+Excellent communication skills with the ability to engage, influence, and inspire partners and stakeholders to drive collaboration and alignment
+High degree of organization, individual initiative, and personal accountability
+Comfortable using project management tools such as JIRA
+Technical background is a plus
+Ability to write detailed, concise functional requirements.
+Ability to solve existing problems and anticipate new ones",https://images.wuzzuf-data.net/files/company_logo/Unifonic-Jordan-71385-1655034954-sm.png
+Senior BI Developer,LINK Development,,Cairo,Egypt,['Full Time'],Entry Level,· 1 - 5 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Computer Science', 'BI', 'Software Engineering', 'SQL', 'Software Development', 'Power BI', 'SSRS', 'SQL Server']","Designing and Architect BI solutions
+Develop Data warehouse, ETLs and Data visualization.
+Performance Optimization for Data warehouse, ETLs and Data visualization.
+Debugging, monitoring and troubleshooting BI solutions
+Configuring, deploying and maintaining BI solutions","Familiarity with SQL Server and advance T-SQL concept
+Proven experience from 1 to 5 Years of experience
+Familiarity with Data Modeling
+Familiarity with ETL Using SSIS
+Familiarity with Data Warehouse Concepts and OLAP Using SSAS
+Familiarity with Reports and Dashboards using SSRS, Power BI and Tableau
+Familiarity with Machine Learning Algorithms is a plus
+Familiarity with Azure Data Platform is a plus
+Ability to manage multiple tasks/projects and deadlines simultaneously",https://images.wuzzuf-data.net/files/company_logo/LINK-Development-Egypt-15576-1499683425-sm.jpg
+Senior Data Scientist,Fixed Solutions,Sheraton, Cairo,Egypt,['Full Time'],Experienced,· 5+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Analysis', 'APIs', 'Computer Science', 'Engineering', 'Information Technology (IT)', 'Java', 'Programming', 'Software']"," Design and Develop analytical insights based on unstructured and structured data for industry-scale
+analytical solutions on Cloud and on Prem.
+Convert requirements into actual working modules.
+ Work with Data Scientists and Distinguished Engineers and Architects to solve problems by using analytics as a tool.
+ ","Required Years of experience: 5+ years of experience
+ Who you are:
+ You will be highly hands-on and enjoy keeping up with the latest innovations. With a very good grasp of a broad set of machine learning algorithms and software engineering skills, you will have a machine learning / mathematical / statistical background. 
+ As a Data scientist you will apply your deep analytics expertise, designing and implementing end to end unstructured data mining of large scale big data platforms. Apply semantic correlation, ontology, and text analytics techniques to analyze un-structured data and identify critical insights.  
+ You will participate in feature / design discussions / workshop with Architect and the offering Management Teams to come up with innovative solutions that can scale.
+ What you know:
+ Defining the business problem and working hypothesis
+ Helping to locate/resolve data/quality issues
+ Proficient in the following: Python, R, Java, SQL
+ Proficient at consuming and building REST APIs
+ Proficient at integrating predictive/prescriptive models into applications and processes
+ Training and experience applying probability and statistics
+ Experience in data modeling and evaluation and a deep understanding of supervised and
+unsupervised machine learning
+Experience applying mathematical modeling and/or constraint programming to a range of
+industry problems
+Ability to apply predictive models as input into decision optimization problems
+ Experience building Monte Carlo simulation/optimization for what-if scenario analysis
+ Experience integrating data and the output of predictive and prescriptive models within the
+context of a business problem
+Proficiency with data parsing, scraping, and wrangling
+ Software life cycle, from analysis, design development, to unit testing, production
+deployment and support.",https://images.wuzzuf-data.net/files/company_logo/Fixed-Solutions-Egypt-18523-1517185135-sm.png
+Pre Sales Engineer,RDI,Dokki, Giza,Egypt,['Full Time'],Experienced,· 2+ Yrs of Exp,"['IT/Software Development', 'Sales/Retail', 'Engineering - Telecom/Technology', 'Sales', 'Presales', 'Computer Science', 'Sales Skills', 'Business', 'Information Technology (IT)', 'Computer Engineering']","Engaging with customers, capturing requirements, proposing technical solutions and technologies/products.
+Designs AI-based solutions using RDI engines for Speech, OCR, NLP.
+Involve in customer meetings to describe/discuss the proposed solution and highlight advantages over competitors.
+Prepares technical write-up and high-level design that describes the proposed solution.
+Conduct research and gain knowledge of all key products and technologies (including competitive market analysis).
+Drive new sales opportunities by proactively engaging with the technical community within target accounts.
+Deliver consistent product training, technology updates and key selling points.
+Conducting professional demos and presentations for end users. 
+Create RFP responses, technical drawings, presentations, and recommendations.
+Awareness / Understanding of Products’ competitors’ portfolios.
+Investigating new technologies and third-party components and staying on top of technology to innovate new products and services.
+Being in sync with market situation and studying market potential.","Bachelors degree of Engineering/computer science or related field.
+Basic Knowledge of AI-based solutions, Machine Learning, and Deep Learning especially in these fields; Speech-to-Text, Text-to-Speech, Optical Character Recognition (OCR), and Natural Language Processing (NLP).
+2+ years of experience in presales functions.
+Working experience in a customer-facing role and comfortable presenting to audiences on both technical and business-related topics.
+Proficiency with MS Office Suite.
+Fast learner with strong team-work spirit & positive thinking attitude.
+Ability to multi-task and manage competing priorities, ensuring all objectives are accomplished.",https://images.wuzzuf-data.net/files/company_logo/RDI-Egypt-5083-1579615010-sm.png
+Production Engineer,Red Sea Pipes,6th of October, Giza,Egypt,['Full Time'],Experienced,· 3+ Yrs of Exp,"['Manufacturing/Production', 'Engineering - Mechanical/Electrical', 'Production', 'Engineering', 'Mechanical Engineering', 'Electrical Engineering', 'Plastic', 'Maintenance', 'Chemistry', 'Manufacturing']","Job summary:
+Study the production capacity of all machines and follow up their implementation and their suitability with the production plan drawn up from the planning department approved by Production manager, study any deviation from expected production, monitor problems related to the product, machine, or workers, and make the necessary reports accordingly.
+Job tasks:
+Follow up the implementation of work orders in accordance with the plan approved by the Production Department
+Preparing production reports that contain operating and stopping rates, optimum performance rates for machines and analyzing operating conditions.
+Studying the scrap ratios and analyzing them and any deviation in the expected production rates according to the prior plan and compatible with the performance of the machines.
+Continue implementation of pre-planned preventive (mechanical - electrical) maintenance plans approved by the Production and Maintenance Department and submit a report and study
+Comprehensive of malfunctions during operation and suggest solutions for that.
+Providing supervisors and technicians with the information necessary to raise their technical and administrative competence.
+Creating a database for each equipment separately, including a record of faults, maintenance expenses and spares used as a spatial financial center.
+Working a complete operating system to know the efficiency of the lines on different sizes, explaining in a table showing the preference of each machine according to each size. To arrange
+Descending according to preference and problems of some machines on some sizes, in coordination with the production manager.
+Coordination with the production manager in determining the needs of the department of equipment and tools that help in developing the work of the department and preparing a report accordingly.
+Learn about the sources of food and its control points (electricity / water / compressed air / cooling).
+Monitor the state of the molds before and after operation, organize, arrange, and code them according to type and size, and participate in the inventory procedures for pumps.
+Follow health and safety standards, and industrial safety and occupational safety instructions.
+Preparing reports and drawings for new molds, whether in the drawing or injection department.
+The incumbent of this position is responsible for maintaining documents and confidential information.
+Show his concept of rewards and penalties for the department's employees and under his presidency to his immediate boss.","Required educational level: Bachelor (Engineering - Science) Specialization: Mechanics - Electricity - Chemistry
+Required skills :
+Experience in Plastic pipes Field is a must.
+Knowing about plastic materials
+Has experience in controlling operating conditions
+Knowing about maintenance work
+Has experience in controlling the quality of products and identifying defects of products, their causes and how to treat them
+Has administrative and behavioral capabilities in the field of industrial management
+The ability to make appropriate decisions for different situations
+Fluency in the English language.
+Proficiency in working with computers
+Required Characteristics:
+A leading, administrative and organizational personality
+Good behavior.
+Work under pressure
+Able to research and to develop.",https://images.wuzzuf-data.net/files/company_logo/Red-Sea-Pipes-Egypt-51168-1578611720-sm.png
+Data Scientist “Mathematics/Physics”,Dafa,,Cairo,Egypt,['Full Time'],Experienced,· 7 - 10 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Business Objects', 'Computer Science', 'D3', 'Data Mining', 'Gurobi', 'Information Technology (IT)', 'Mathematics', 'Python']","We are looking for someone with 7-10 years of experience mining/manipulating data sets and building statistical models, has a Master’s or PHD in Physics/Statistics, Mathematics, Computer Science or another quantitative field.
+Job Description
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.","Requirements 
+Strong problem solving skills with an emphasis on product development.
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.
+Experience working with and creating data architectures.
+Coding knowledge and experience with several languages: C, C++, Java,
+JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.",https://images.wuzzuf-data.net/files/company_logo/Dafa-Egypt-76749-1662034171-sm.png
+Pre Sales Engineer,BBI-Consultancy,Nasr City, Cairo,Egypt,['Full Time'],Experienced,· 4 - 6 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Engineering - Other', 'Cloudera', 'Informatica', 'Data Management', 'Informatica ETL', 'BI', 'Communication skills', 'Creative']","Technical Consultancy.
+New Technology Exploration, whether an entirely new product or new modules of already existing products.
+Conduct Online Webinars.
+Develop Proof of Concepts (PoCs) for customers.
+Develop and present Demos Solution Offerings.
+Participate in creating BBI’s solution offerings.
+Research different sectors’ best practices and latest trends.
+Work with different BBI teams to combine the sectors’ knowledge with the technology knowledge to create solutions offerings.
+Technical Partner Engagement.
+Handle Knowledge Transfer between BBI’s partners & BBI teams.
+Discuss and learn Architecture Guidelines & Licensing Guides from BBI’s Partners.
+Collaborate with partners on replying to customers’ Compliance Matrices.
+Design & Develop Add-ons on partner’s products.
+Create Sales Toolkit.
+Create Ready-Made Demos for other commercial team members to use, including writing the scenario, developing the demo and creating a demo script.
+Create Video Recordings of the Demos/Products.
+Click Through Demos.
+Create ready-made Presentations to cover different functions/sectors/products.
+Proactive Customer Engagement.
+Creating The need (Presenting Introductory Presentation).
+Presenting Demos.
+Gathering & Validating Requirements.
+Assessing RFPs.
+Sending Clarifications to customers if needed.
+Design Solution Architecture.
+Validate Estimations provided from the technical team.
+Proposal Writing.","Technical Hands-on experience of more than 3 years in one or more of the following areas:
+Business Intelligence
+Big Data
+Artificial Intelligence and Machine Learning
+Excellent Communication skills (Both internally and with Customers
+Very good presentation skills
+Ability to handle research tasks (Both Technical & Business)
+Creative Thinker
+Very good Technical Writing skills.",https://images.wuzzuf-data.net/files/company_logo/BBI-Consultancy-Egypt-1113-1518334605-sm.png
+Senior C++ Software Developer,Luxoft (A DXC Technology Company),,Cairo,Egypt,"['Full Time', 'Work From Home']",Experienced,· 6 - 20 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'C++', 'OOP', 'Communication skills', 'Computer Science', 'Information Technology (IT)', 'Engineering', 'Software Development', 'Software Engineering']","Luxoft is one of the major software services companies world-wide. 
+We deliver professional software services in multiple business verticals such as finance, automotive, and digital transformation. 
+Supporting large vehicle manufacturers in the area of development, production and aftersales is Luxoft's ambition.
+The software inside a vehicle was traditionally expected to be a very controlled and self-contained environment.
+Equipping cars with perception and machine intelligence changes a lot in the overall picture of the vehicle manufacturer. 
+Luxoft's goal is to empower our customers, with deep domain knowledge and smart solutions, to develop cars of the future. Great mechanical engineering is not the only criteria anymore for delivering the best cars in the world. 
+Using state of the art software technologies are key to provide the requested user experience.
+For the development of the next generation of ADAS (Advanced Driver Assistance Systems) and HAD (Highly Automated Driving) functions for a major German OEM, we are looking for talented C++ Developers (m/f/d).
+Join our team of enthusiastic and experienced software developers and develop software for an entire driver assistance area of future vehicles of a renowned German automotive manufacturer. 
+Develop challenging features that will be used on a daily basis by millions of drivers once the next generation of vehicles hits the roads starting 2025.","Must have
+Academic degree in computer science, mechatronics, electronic engineering, telecommunication engineering or similar qualification, PhD welcome
+Strong OOP and C++background, also in new standards (11, 14)
+Strong software debugging skills, understanding of performance optimization
+Very good understanding of the software development process, preferably in the automotive area
+You are hardworking and have team spirit
+Strong communication skills in English
+Nice to have
+ PhD in a relevant field with international experience in industrial R&D projects
+Experience with Python (numpy/scipy/matplotlib)
+Experience with Bazel, gdb, gcc, memory&CPU profiling
+Experience with embedded and/or real-time systems
+Experience in Automotive (CAN, LIN, Flexray, Ethernet, Autosar Classic/Adaptive, functional safety, etc.)
+Experience in AI, Robotics, Machine Learning, Computer Vision or similar
+Experience in ROS
+Knowledge of MISRA standard
+Enthusiasm for embedded systems and automotive
+Probability theory, statistics, linear algebra, geometry, optimization
+German language knowledge",https://images.wuzzuf-data.net/files/company_logo/Luxoft--A-DXC-Technology-Company--Egypt-74664-1645704102-sm.png
+Head Barista,Confidential,Maadi, Cairo,Egypt,['Full Time'],Manager,· 5 - 8 Yrs of Exp,"['Hospitality/Hotels/Food Services', 'Operations/Management', 'Hotel, Restaurant, Cafe', 'Cafe', 'Barista', 'Coffee', 'Restaurant Management']","Responsible for implementing the proper operating rules in the barista in accordance with the company's quality standards.
+Responsible for receiving new baristas, informing them of the required rights and duties, and introducing them to the types of equipment used in the branch.
+Responsible for working with the barista in the branch within a work team and transferring individual experiences and skills to them and developing the barista’s professional capabilities.
+He is aware of the new products and makes sure that the barista is trained on (the steps of work, the final form and keeping the recipe for the products), and how to present the product to the customer in an interesting way.
+Continuous effective communication with the lead barista in charge of the area.
+Responsible for training new baristas and accredited baristas in the branch (OJT), preparing barista training files with the latest data update and activating the training forms attached to the file.
+Responsible for monitoring the quality of products in the branch, including the daily tasting record of espresso, raw materials and products.
+The branch manager assists in preparing the weekly bar orders from the stores, as well as assisting in making the monthly inventory of the bar.
+Responsible for following up the daily and weekly cleaning schedules and ensuring that they are fully activated (cleaning the grinder, cleaning the coffee machine, cleaning the softener, etc.).
+Responsible for the cleanliness and organization of the bar, Take Away customer service area and the store.
+Responsible for following up the condition of the equipment and informing the branch manager and senior barista of the necessary maintenance for the equipment to take the necessary action, and recording this in the branch’s equipment register.
+Be a source of inspiration for customers by spreading the culture of coffee and answering customers' questions.
+Deals effectively with customers' needs and works to discover their desires and deals with problems professionally in the event of a complaint.","High education, preferably tourism and hotels.
+Experience from 5 to 10 years. 
+ A person who is organized, responsible, meticulous and pays attention to detail.
+ Leads the work team, to communicate effectively with co-workers and management and to work well as part of the work team.
+ Possess the professional skills and capabilities of a professional barista, to efficiently and stably prepare coffee drinks in accordance with company standards.
+ Have a demonstrated interest in and passion for coffee and the coffee industry.
+ Works well under pressure, able to multitask effectively without compromising quality stability.
+ Has a desire for continuous learning, as coffee is a constantly evolving industry.
+ He cares about his personal appearance, as he will set an example for his colleagues at work","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAulBMVEUAAAC/v7+/v7+vv8+vt8exvsu1usqzvcuyu8izu8izu8ezusizvMm0vMiyusqzusmzu8q0u8iyu8iyusizu8mzusiyvMmzvMq0usmzusmyvMi0u8mzu8q0u8mzvMmzu8m0usqzu8q0u8izu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8qzu8mzu8mzu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8n///+qvQnLAAAAPHRSTlMABAgQICcwNjg8QEpQWGBkZXB0foCCiJScoKOmrLCyuLq/xM7Q09bZ4OHi5OXn6Ozu8PHy8/T29/r7/f6LHBTRAAAAAWJLR0Q90G1RWQAAAcpJREFUWMPtmFtPwkAYRBHWokUrrXipWuSmVLxWsIJ+//93earZB9FtSqhoZOdhhgnkEFiaASoVKyur1WunhXZKhoaCQgstSVsuOs+g59mtrVKgsXxSbKF/DqrEKLUm0JckSZ5IIiGeiJeloQPSJauVSpVwqYM1gl4qpXbJTaU2iV3q5d88/aHjOHtk3XHqxB51aE9/Oeg0juM78iqOr4g76nRp6I3v+0dk4PsBcUS9WQCq3M+q5b/82tzDv3+a1txH0c2HunMPb/029CEMw2z0T8LwJJt+6sNi0E4URTO5xfsa+kjpke0oahM96qOG9im3MsM7OdDszU4kwr0iL9+jRJJ8fE7+ATTwPC+VPn6soSPKIdn0vCZxSB1p6DGlLyke5EDH7+s2w1MNNQ4f0JQye79rbA/KBN1m1sbSwQMNNQ4f0IDSkTG+vdhlahy+wpdpg1mbSBff11Dj8AHdp3Rlgjfs6Zug18zaq6T4vYYahw/oPSWVV/w6B3rArD3LBX6qocbhA3pKuZBn/MAelAl6xqxNZYT3igxfjzKSKX626svUQtcW+vX7adU1qlrw+2n52lAlaKP4j7viUquA1lolqGb/Eray+gG9ASKwq1bDF0K7AAAAAElFTkSuQmCC"
+Application Support Engineer,Caelum Egypt,Dokki, Giza,Egypt,['Full Time'],Entry Level,· 1 - 3 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Communication skills', 'computer', 'Computer Engineering', 'Computer Science', 'Customer Support', 'CRM', 'Engineering', 'English']","Provide 1st & eventually 2nd level (after good training on company products) support for production issues across multiple applications, including problem identification, definition and implementation of short-term work around and coordination of long term software solution with business analysis and development team.
+Setup, configure and maintain monitoring for the deployed systems
+Maintain the company knowledge base related to deployment of new applications and resolutions for known issues
+Write internal administration guides for the applications and trains the staff in case of new deployment processes are introduced
+Install and configure clients’ environments on request - onsite or offsite
+Perform advances investigation of issues including network troubleshooting
+Diagnose and resolve day-to-day live system issues in timely manner based on their severity
+Clear understanding of software development lifecycle methodologies and documentation standards
+Maintain ongoing communication with end-users, business analysts, QA team, and development team on reported issues
+Coordinate, Review and respond to system audit alerts in a timely manner
+Ability to write, modify, and execute SQL queries for SQL database
+Configuration of local machines to clone client's production environment for troubleshooting reported issues
+Effectively record and monitor progress of all issues raised, providing feedback to the business users as required
+Liaise with other support/development teams to resolve cross system issues
+Maintain application support documentation
+Test configuration changes in a test environment prior to pushing into production
+Design and support application reports
+Maintain confidentiality with regard to the information being processed, stored or accessed
+Read and recognize the function of SQL queries to perform troubleshooting related to application changes and releases","Bachelor degree in Software/Computer Engineering, Computer Sciences, or related field
+Minimum of 2 years’ experience in a software development context with minimum 2 year in a support role
+Fluent in English is must
+Experience in supporting and maintaining applications on desktop, web and database platforms
+Solid working knowledge in SQL database is a must
+Fluent English is a MUST
+Solid experience in CRM systems (Microsoft Dynamics CRM is a plus)
+Solid experience in cloud computing platform (Microsoft Azure is a plus)
+Business Intelligence knowledge is a plus
+Working experience in .NET framework is a plus
+Ability to read and understand job-related materials such as instructions, specifications, references and manuals
+Ability to work with demanding users in a fast paced environment
+Excellent organizational, analytical, as well as oral and written communication skills
+Excellent interpersonal and communication skills (oral and written)
+Strong critical thinking and analysis, meeting facilitation, verbal and written communications, and interpersonal skills
+The ability to explain complicated concepts in a simple manner
+Proven documentation skills with consistent accuracy of details
+Strong understanding of change control processes, time management and attention to detail
+Ability to manage time and work well under pressure
+Flexibility to handle multiple work streams at any time
+Ability to investigate, analyze information and to draw conclusions in order to troubleshoot issues
+Ability to learn and support new applications
+Ability to work independently or as part of a team
+Proven ability to understand a customer’s business environment and processes
+Ability to travel abroad when needed",https://images.wuzzuf-data.net/files/company_logo/Caelum-Middle-East-Egypt-3522-1612259033-sm.jpg
+Data Engineer,Cilantro,Maadi, Cairo,Egypt,['Full Time'],Entry Level,· 1 - 3 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Data Science', 'Data Analysis', 'Data Analytics', 'Data Engineering', 'Data', 'Database', 'Information Technology (IT)']","ETL maintenance for data freshness and maximum warehouse uptime
+Integrate new data sources to ETL
+Build monitoring dashboards for data delivery and quality
+Data platform infrastructure maintenance and expansion when necessary
+Adapting and evolving the data platform based on business requirements 
+Support in analytical dashboards creation and interfaces for stakeholders 
+Support in analytical tools development and maintenance","Qualifications
+We’re looking for gritty tech-savvy individuals who are good self-learners, proactive, ambitious, result-oriented and hungry for continuous self-improvement.
+ Technical Qualifications:
+Core understanding of OOP, and preferred proficiency in Python
+Fair knowledge of SQL
+Basic understanding of database systems
+Fair knowledge of cloud providers, preferably GCP 
+Basic understanding of cloud data warehouses, preferably Big Query
+Experience using Pandas
+Experience with data workflow orchestration (Airflow)
+Nice to have: Machine learning and predictive analytics algorithms, experience using SQLAlchemy and Flask
+ Also, interested to learn more about:
+New technologies as required to achieve business goals 
+Business development & transformation
+Data analysis and visualization
+BI tools development",https://images.wuzzuf-data.net/files/company_logo/Cilantro-Egypt-69955-1638611455-sm.jpg
+Senior Full Stack Developer,Fotopia,Heliopolis, Cairo,Egypt,['Full Time'],Experienced,· 5 - 10 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Engineering', 'Computer Engineering', 'Software Development', 'Information Technology (IT)', 'English', 'Computer Science']","We are growing and if you believe you have the right startup mindset for an aggressive growth roadmap, check the job description below and apply. 
+We are looking for a Senior Full Stack Engineer who has working experience with modern and cutting-edge technologies including AI and Machine Learning. We would like you to lead and coach a team of highly skilled developers in building state of the art technologies and software products, using tools such as Angular, React, JavaScript, Python, MongoDB, Docker, .NET framework as detailed below.
+Solid knowledge and experience in React, TypeScript, HTML5, CSS3, Bootstrap.
+Solid experience with both RDBMS and NoSQL databases (MS SQL Server & MongoDB).
+Solid experience with C#.NET, ASP.NET MVC, .NET core & Microsoft Development Tools.
+Solid Experience in object-oriented programming & software design patterns.
+Fair knowledge of Phyton, AI, machine learning concepts is plus.
+Fair experience in Microsoft Azure, at least App Services and Azure Storage is plus.
+Fair knowledge of Azure DevOps, deploying and automating CI/CD pipelines across multiple environments is plus.
+Good knowledge of Docker or Kubernetes is a plus.","Bachelor’s degree in computer science or computer engineering.
+Minimum 5 Years of proven work experience, preferably within a technology organization as both a hands-on architect and/or a software engineer.
+Excellent command of English language.
+Have a keen eye for quality and details.
+Very good analytical and creative problem-solving skills.
+What we offer:
+A startup environment to grow where the sky is the limit!
+Top of the market salaries and financial packages.
+Stock options based on the position applied to and proven experience.
+Medical and social insurance.",https://images.wuzzuf-data.net/files/company_logo/14915161746315ac1851e2e-sm.png
+Production Engineer,Metal & Steel Innovation,,Cairo,Egypt,['Full Time'],Experienced,· 2 - 4 Yrs of Exp,"['Engineering - Construction/Civil/Architecture', 'Creative/Design/Art', 'Quality', 'Furniture Production', 'Manufacturing', 'CNC', 'AutoCAD', 'Architecture', 'Production', 'Quality Control']","The applicant must have meaningful experience in furniture design/engineering, high attention to detail, and strong leadership and communication skills. Sketching/drafting skills and CAD proficiency are a plus. 
+Preference is given to candidates with business/entrepreneurial experience.
+Review order acknowledgments and monitor production progress; report to sales reps in weekly PM meetings.
+Review technical drawings for accuracy and get factory and client’s approval of designs.
+Oversee site measurements and installation of custom furniture as needed.
+Conduct physical inspections of factories and furniture whenever possible.
+Coordinate freight forwarders, warehouses, and local delivery companies to ensure orders are handled properly and delivered on time.
+Coordinate service providers to correct mistakes/damages as quickly as possible.
+Process claims/chargebacks against vendors as appropriate.
+Initiate programs and operate CNC for best quality output.
+Read and interpret plans, sketches, and shop drawings.
+Work with designers and management to achieve customer satisfaction.
+Maintain a high level of production while maintaining quality.
+Responding to quick turn-around orders.
+Manage the overall daily production activities including (production planning, scheduling, quality assurance, budgeting, etc…)
+Assess projects and resources requirements and demands.","Bachelor degree from a reputable university
+Experience in Furniture Production is a Must
+Excellent computer skills
+Minimum 2-4 years of experience in furniture manufacturing plants
+Good communication skills
+Able to work under pressure
+At least 2 years of work experience in operating CNC machines
+Ability to work under limited supervision using standard practices.
+Experience in Quality Control",https://images.wuzzuf-data.net/files/company_logo/Metal---Steel-Innovation-Egypt-24814-1578263903-sm.png
+Data Labeler,Micro Engineering,Heliopolis, Cairo,Egypt,"['Full Time', 'Shift Based']",Entry Level,· 0 - 1 Yrs of Exp,"['R&D/Science', 'IT/Software Development', 'data labeling', 'English', 'Data Entry', 'Administration']","The Data Labeler/annotator role is an entry-level position for individuals who are interested in working in the AI industry. We are looking for candidates who are detail-oriented and adaptable to varying workloads. Your job will include annotating tasks and delivering high-quality labeled datasets by following a clear set of instructions. You will be working cross-functionally with Engineering to deliver high-quality annotated data for automotive.
+ Responsibilities
+Label machine learning data from clients
+Complete tasks in a timely manner, meeting SLA deadlines
+Do post-process audits and write error reports on data and tasks
+Work in-sync with Team Leads to meet weekly goals","Required Skills:
+Detail oriented and can follow complex instructions
+Ability to work full-time hours (8-hour workdays)
+Ability to work independently, cooperatively, and collaboratively as a team member
+Possession of good communication and English language skills
+Strong sense of ownership, urgency, and drive
+Ability to handle ambiguity and changing priorities",https://images.wuzzuf-data.net/files/company_logo/Micro-Engineering-Egypt-16608-1609868488-sm.png
+Odoo Developer & Pre,Elitbuzz,Maadi, Cairo,Egypt,['Full Time'],Experienced,· 5+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Software Development', 'SW Development', 'Pre-Sales', 'ERP Implementation', 'ERP Software', 'Communication', 'Communication skills', 'Computer Science']","Implement Odoo ERP for different client verticals-
+Design/Configure/Customize/Integrate/Test/Deploy Odoo System based on client requirements & project scope by meeting the project deadlines.
+Design & develop new modules, workflows, reports, APIs etc.
+Coordination with Project Manager/Business Analyst/Junior developers/client and ensure the successful implementation of all client projects on time.
+Takes higher ownership for tasks and duties assigned.
+Guide & mentor Junior Developers whenever required. Assign project tasks & track activities of team members.
+Build prototypes at scoping stage of projects to support Presales team.
+Setup, maintain & monitor Odoo servers -Cloud & On-premise.
+Manage source control such as GITLAB.
+Odoo database & modules migration
+Integrate Odoo with other software applications.
+Responsible to deliver multiple projects parallelly.
+Support & execute project tasks with onsite/offshore team members.
+Post implementation support","Bachelor/Master Degree in computer science or engineering
+Minimum 5 years of recent Odoo development & implementation experience.
+Ability to work effectively as a team member, demonstrating excellent organizational skills and initiative and flexibility.
+Must have sound knowledge of Odoo MVC architecture.
+Must have strong technical & functional knowledge of Odoo core modules such as Sales, Purchase, Inventory, Accounting, POS, Ecommerce, Project, Manufacturing, Qweb Reporting, etc.
+Knowledge of odoo.sh will be an added advantage. 
+Sound knowledge of version control system tools like git and its tools such as Jira, GitHub, Bitbucket, Atlassian.
+Skills to research, learn, troubleshoot, debug, and support complex Odoo customizations.
+Experience in writing techno functional documentation
+Hands-on experience in configuring & installing POS hardware items, Biometric attendance machines etc. with Odoo System.
+Strong in Python programming, PostgreSQL, Java Script & Object Oriented Design and Programming
+Strong written & verbal communication skills in English language
+A comfort level with both giving and receiving respectful constructive critical feedback.
+Good team player & ability to work under pressure.
+Strong sense of commitment, responsibility and ownership",https://images.wuzzuf-data.net/files/company_logo/175739916962a6f34008a36-sm.png
+Artificial Intelligence,Confidential,,Riyadh,Saudi Arabia,['Full Time'],Experienced,· 2 - 4 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'Artificial Intelligence', 'Computer Science', 'English', 'Information Technology (IT)', 'Software Engineering']","Develops required machine learning models or prototype applications, applying formulated AI recipes and verifying the problem/solution fit.
+Understands the challenges in medical imaging and using state of the art solutions in AI and DL.
+Participates in building new experiences, improves existing products, ensures quality assurance test designs and contributes to test systems architecture discussions.
+Works alongside leading innovators in the field of deep learning and health care, plays a critical role in algorithm development.
+Analyzes and evaluates data and builds deep networks to detect or predict features, while effectively balancing quality, availability, timeliness and cost factors.","BA/BS degree in computer science or related discipline is required, MS degree is preferred.
+Good command of the English language required (spoken and written).","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAulBMVEUAAAC/v7+/v7+vv8+vt8exvsu1usqzvcuyu8izu8izu8ezusizvMm0vMiyusqzusmzu8q0u8iyu8iyusizu8mzusiyvMmzvMq0usmzusmyvMi0u8mzu8q0u8mzvMmzu8m0usqzu8q0u8izu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8qzu8mzu8mzu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8n///+qvQnLAAAAPHRSTlMABAgQICcwNjg8QEpQWGBkZXB0foCCiJScoKOmrLCyuLq/xM7Q09bZ4OHi5OXn6Ozu8PHy8/T29/r7/f6LHBTRAAAAAWJLR0Q90G1RWQAAAcpJREFUWMPtmFtPwkAYRBHWokUrrXipWuSmVLxWsIJ+//93earZB9FtSqhoZOdhhgnkEFiaASoVKyur1WunhXZKhoaCQgstSVsuOs+g59mtrVKgsXxSbKF/DqrEKLUm0JckSZ5IIiGeiJeloQPSJauVSpVwqYM1gl4qpXbJTaU2iV3q5d88/aHjOHtk3XHqxB51aE9/Oeg0juM78iqOr4g76nRp6I3v+0dk4PsBcUS9WQCq3M+q5b/82tzDv3+a1txH0c2HunMPb/029CEMw2z0T8LwJJt+6sNi0E4URTO5xfsa+kjpke0oahM96qOG9im3MsM7OdDszU4kwr0iL9+jRJJ8fE7+ATTwPC+VPn6soSPKIdn0vCZxSB1p6DGlLyke5EDH7+s2w1MNNQ4f0JQye79rbA/KBN1m1sbSwQMNNQ4f0IDSkTG+vdhlahy+wpdpg1mbSBff11Dj8AHdp3Rlgjfs6Zug18zaq6T4vYYahw/oPSWVV/w6B3rArD3LBX6qocbhA3pKuZBn/MAelAl6xqxNZYT3igxfjzKSKX626svUQtcW+vX7adU1qlrw+2n52lAlaKP4j7viUquA1lolqGb/Eray+gG9ASKwq1bDF0K7AAAAAElFTkSuQmCC"
+Sales Engineer,IBIS SUPPLIES,New Cairo, Cairo,Egypt,['Full Time'],Experienced,· 3 - 5 Yrs of Exp,"['Engineering - Construction/Civil/Architecture', 'Sales/Retail', 'Engineering - Mechanical/Electrical', 'sales skills', 'Engineering', 'Sales', 'Sales Target', 'English', 'Sales Engineering']","Main Goal 
+Creating new accounts of customers, maintain and develop 
+Achieving ethically and professionally the targets and hit rate of pipeline 
+Seeking for available opportunities to expand the pipeline, and deep follow up for increasing hit rate and meet the budget
+ In addition:
+Provide necessary support to the executive manager; information, data and any required
+Feedback.Perform all the necessary typing and editing of memos, e-mail correspondence and follow up.
+ Operate, carefully and efficiently, a variety of standard office machine, including personal
+Computer and a variety of computer software, phone, fax, calculator, Photocopy machine.
+Maintain regular consistent and professional attendance, punctuality, personal appearance and
+Full awareness of relevant health and safety procedures.
+Establish and maintains efficient, effective, reliable and friendly communication channel with customers, suppliers, Co-workers, supervisors and other colleagues.
+Respond positively and diligently to colleagues’ requests and contribute to company strategy and
+Policy- making as required.","Preferred Airports equipment’s and systems experience
+High sales skills and negotiation, High ability for learning, customer oriented, 
+Joining in implementing market intelligence for the scope of the company 
+Close follow up for the market situation and changes 
+Presentable, smart, active, good command in English language",https://images.wuzzuf-data.net/files/company_logo/IBIS-SUPPLIES-Egypt-81445-1661695292-sm.png
+Senior Python / Django Developer,RDI,Dokki, Giza,Egypt,['Full Time'],Experienced,· 2+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Django', 'Python', 'MySQL', 'GIT', 'Docker', 'javaScript', 'Angular', 'RESTful APIs']","RDI is looking for a design-minded Python / Django senior developer who must bring extensive, expert-level experience in Python / Django with the desire to deliver quality code. The developer will work on projects related to machine learning algorithms that will allow you to wear many hats and flex both technical development, collaborative and communication skills.
+Responsibilities:
+Participating in architectural, design and product discussions.
+Working closely with UX and Front-end Developers.
+Develop cloud-based Python Django software products.
+Designing and creating RESTful APIs for internal and partner consumption.
+Writing reusable, testable, and efficient code.","Requirements:
+2+ years of on-the-job software engineering experience.
+Solid database skills in a relational database (i.e. PostgresSQL, MySQL, etc.)
+Knowledge of how to build and use RESTful APIs.
+Experience with modern JavaScript frameworks such as React.
+Proficiency using industry standard 3rd party tools such as Docker.
+Strong knowledge of version control (git).
+Experience deploying Python applications into production.
+Understanding of the threading limitations of Python, and multi-process architecture.
+Knowledge of user authentication and authorization between multiple systems, servers, and environments.
+Strong unit test and debugging skills.
+Google Cloud Platform (GCP) knowledge is a plus.
+Experience working in Linux environments and basic shell is a plus.",https://images.wuzzuf-data.net/files/company_logo/RDI-Egypt-5083-1579615010-sm.png
+Business Analyst,Streams,Dokki, Giza,Egypt,['Full Time'],Experienced,· 4+ Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Analysis', 'Business Analysis', 'Information Technology (IT)', 'Communication skills', 'Computer Science', 'Microsoft Office', 'Software', 'analytical']","Prepares detailed analysis documents with defined and appropriate techniques for functional and non-functional requirements.
+Develops innovative solutions for customers’ requirements and participates in the lifecycle development process of product definition through design, development, test, release, and maintenance.
+Works with the technology and business groups to define project specifications.
+Develops tools and frameworks and enhances the efficiency of the development, test, and release processes.
+Supports developers and QC engineers by clarifying requirements or business concerns generated anytime within the lifecycle development process.
+Communicates effectively with product owners’ insights and supports cross-functional team members and management.
+Delivers daily status reports to the department manager.
+Collaborates and communicates proactively with clients and internal teams to analyze functional requirements and the appropriate project scope according to business needs.
+Translates complex business, functional and technical requirements into detailed work tasks and prepares project scope statements.
+Develops requirement specifications according to standard templates.
+Reviews the documents with the direct manager and the technical team, before finalizing and versioning it.","Bachelor’s Degree in Computer Science
+4+ years of proven experience
+Knowledge of software technology, computer programming experience, and broad business knowledge.
+Proficient in Microsoft Office programs (Access, Excel, Project, PowerPoint, etc.) and Software Design Tools.
+Ability to elicit and document functional requirements, write specifications, use cases, and design user interface requirements for applications.
+Positive attitude even under high pressure and stressful situations
+Strong problem solving and analytical skills
+Advanced organization skills to manage teams, resources, processes, and time to achieve a target result within the stipulated timeframe.
+Strong oral and written communication skills. 
+Knowledge of machine learning / AI is a plus",https://images.wuzzuf-data.net/files/company_logo/Streams-Egypt-23121-1639400513-sm.png
+Microsoft CRM Developer,Perfect Presentation,6th of October, Giza,Egypt,['Full Time'],Experienced,· 3+ Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Dynamics', 'Microsoft Dynamics', 'Development', 'Microsoft', 'Information Technology (IT)', 'Computer Engineering', 'Computer Science']","Writing and documenting the technical specifications and requirements for the planned work from the application consultant ·
+Create and maintain a scheme to support system requirements and adherence to Al Majed for Oud standards, policies, and procedures ·
+Develop software and identify and resolve website errors on Microsoft Dynamics to improve user experience · Building plans for integrating Dynamics with systems and external resources using SOAP, XML, and REST APIs along with various integration patterns. ·
+Configure and customize Microsoft Dynamics 365 applications using native and custom forms, entities, plug-ins (JavaScript, C#), Microsoft Flows, X++, .NET, PowerBI, PowerApps, Azure IoT Suite, AppSource, third-party applications, and Azure Machine Learning, SSRS Reports ·
+Design technical solutions that support the exchange of channels that serve as the basis for the introduction of routed data throughout the application ·
+Ensure that all solutions are lightweight scalable, completely secure and designed with an appropriate level of quality ·
+Plan and implement system developments, and provide updates on a regular basis to internal and external clients
+• Follow all relevant policies, processes, standard operating procedures and instructions and ensure work is carried out in a controlled and consistent manner ·
+• Contribute to the identification of opportunities for continuous improvement of systems, processes and practices, taking into account leading practices, improvement of business processes, cost reduction and productivity improvement ·
+• Promote the implementation and adherence to relevant policies, processes and operating procedures to others","Skills
+Minimum of 3 years of experience in systems administration and development ·
+Knowledge of managing and configuring Microsoft Dynamics systems
+Bachelor's degree or diploma in Computer Science, Computer Engineering or similar field",https://images.wuzzuf-data.net/files/company_logo/PERFECT-PRESENTAION-Egypt-10124-sm.png
+Junior Innovation Hub Engineer,Nile University,6th of October, Giza,Egypt,['Full Time'],Entry Level,· 0 - 2 Yrs of Exp,"['Engineering - Mechanical/Electrical', 'Engineering', 'Innovation and Creativity', 'Mechanical Engineering', 'Design', 'Innovation', '3D Printing', 'English', 'Electronics', 'Communication']","Assist lab visitors with technical support.
+Provide lab visitors with required materials and tools.
+Organize the use of lab facility.
+Maintain lab machines regularly.
+Assist researchers with their experimental work.
+Plan the lab’s future needs and requirements.
+Cooperate with industry partners who develop prototypes using lab facilities.
+Organize Competitions for undergraduates that promotes their technical knowledge.
+Supports the university’s startups through prototyping and logistics.
+Assist in ongoing project’s in the University’s Campus.
+Develop documents that is for communication with other departments.
+Participate in the moderation of the innovation hub Facebook page.
+Proactively joins ongoing research projects.","Bachelors degree in Electronics, Communication, Mechatronics, or Industrial Engineering 
+Basic Solid-works knowledge.
+Basic PCB design and fabrication knowledge.
+3D printing experience is a plus.
+Highly familiar with Microsoft office apps.
+Very good written English.
+Self-motivated.
+Proactive.
+Open to learn new skills.
+Adaptive to different tasks and ready to deal with different technologies.",https://images.wuzzuf-data.net/files/company_logo/Nile-University-Egypt-30674-1517751129-sm.png
+Computer Vision Engineer,Edentech,,Cairo,Egypt,['Full Time'],Experienced,· 4 - 9 Yrs of Exp,"['IT/Software Development', 'Analyst/Research', 'Engineering - Telecom/Technology', 'computer', 'Computer Engineering', 'Computer Science', 'Engineering', 'Information Technology (IT)', 'Git', 'Software Development']","Responsibilities:
+Maintain our computer vision libraries
+Explore and analyze video and images through image processing
+Implement various segmentation techniques. 
+Research, develop, evaluate and optimize various computer vision and deep learning models for    different problems.
+Communicate with other teams to gather requirements
+Create unit tests, documentation, and examples for the maintained libraries","Requirements:
+Bachelor's degree in the areas of Computer Science/Computer Engineering, Engineering or any other related fields 
+Technical skills:
+Experience with C/C++ and Python is a must
+Experience in Image Processing is a must
+Experience in Computer Vision is a must
+Experience with any machine/deep learning frameworks like Tensorflow and PyTorch
+Experience in training models through GPU computing using NVIDIA CUDA or on cloud.
+Experience in Mathematics is a must (linear algebra/statistics)
+Experience with high-performance computing (vectorization, multi-threading) is a plus
+Familiarity with source control tools (git) ",https://images.wuzzuf-data.net/files/company_logo/2104676957628cb3e35a6ab-sm.png
+Senior Data Engineer,Edentech,,Cairo,Egypt,['Full Time'],Experienced,· 5 - 12 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Information Technology (IT)', 'Computer Science', 'Software Development', 'Engineering', 'Programming', 'Communication skills', 'Java', 'Software']","About the Role
+We address Data at Eden tech as a top priority for driving success into various functions adapting our heterogenous datasets to formulate data into information, information into insight and insight into business decisions. Data analyst responsibilities include conducting full data infrastructure developing, maintaining, and testing for data generation. Data Engineer has a deep expertise in building large-scale data processing systems by using the latest database and data processing technologies.
+We are looking for a savvy Data Engineer to join our growing team of analytics experts. Excited to be responsible for building and expanding our data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. 
+The ideal candidate enjoys optimizing data systems and building them from the ground up. 
+The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. striving for operational excellence along with igniting innovative ideas hidden in large data sets and working with stakeholders to improve business outcomes.
+Responsibilities
+Create and maintain, with the team, an optimal data pipeline architecture. Build, deploy, and maintain distributed data analytics systems using Hadoop/Spark, Python, Java , Go , Scala, and C/C++
+Assemble large, complex data sets that meet functional / non-functional requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal loading of data from a wide variety of data sources using SQL and big data technologies.
+Work with stakeholders including the Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Identify gaps and improve the platform’s quality, robustness, and speed
+Meet customer requirements in terms of availability, reliability, functionality, and performance","Results-oriented, determined and having a self-driven attitude
+Deep Understanding of CS (Data Structure , Algorithms , Data Sterilization , Discreate Mathematics , CLI , Shell Scripting , networking, and corn jobs )
+Proven Experience in programming languages like (Java , Python , Scala)
+Deep Understanding Concurrent Distributed systems (Times, Clocks ,Ordering of events , Broadcasting and Replication )
+Deep understanding of relational and non-relational databases
+Deep understanding Data warehouse
+Concepts (Data Modeling, OLAP, OLTP , Denormalization ,Different Schemas
+Engines like Snowflake , Hive , Impala , Google Big Query , Amazon Redshift
+Deep understanding Data Lakes (Delta Lake , Databricks , Amazon Athena , Azure data lake)
+Deep understanding of Data Processing Engines (PIG , Spark , Flink , NIFI , Kafka , Storm)
+Workflow Managing systems (Airflow , Luigi , Google Composer)
+Basics understanding and implementing Machine Learning (TensorFlow, Spark MiLB)
+Experience building and optimizing ‘big data’ data pipelines, architectures, and data sets. In both batch and real-time data integration.
+Working knowledge of stream processing, and highly scalable ‘big data’ data stores and messaging systems (Rabbit MQ , Pub Sub , Amazon SNS)
+Excellent communication skills, both verbally and in writing, to be able to align with various stakeholders and cross border squads
+Understanding data privacy and security (data governance, key management, encryption)
+Understanding Cluster Computing (AWS , Azure, GCP) is preferred.
+Understand software testing (Unit Testing , Functional testing , Integration testing) is preferred.
+Understanding identity and access management (active directory) is preferred.",https://images.wuzzuf-data.net/files/company_logo/2104676957628cb3e35a6ab-sm.png
+Product Manager,Fab-Minds,Sheraton, Cairo,Egypt,['Full Time'],Experienced,· 2+ Yrs of Exp,"['Business Development', 'Operations/Management', 'Manufacturing/Production', 'Communication skills', 'Product Management', 'Sales', 'English', 'Management', 'Product', 'Information Technology (IT)']","Job Description:
+Fab-Minds is looking for a Product Manager professional to lead and manage the product from concept to launch. Part of this management is owning the product roadmap, and translating the product concepts, features and USE cases into full functional specifications that developers can immediately use to start building features. The job will include interaction with many other engineering and non-engineering functions inside the company both in-site and overseas to ensure the delivery of high-quality solutions that meets our needs.
+To be successful in this role, you must be able to engage in early stages of the definition and development of different parts of the product. You must also possess impressive Entrepreneurship and leadership skills and must have experience in leading the development of complete market-ready software-oriented solutions. You must also be able to interact and handle the communication with different technical and non-technical stakeholders and formulate their requirements into functional requirements and eventually into Mobile App solutions.
+
+Roles and Responsibilities:
+ Build and own a vision, strategy and multi quarter road map.
+Break the vision into epics and stories, prioritize and own the backlog of the dedicated team. 
+Managing and prioritizing the product backlog.
+Study the market and the competition to be able to successfully identify growth areas and channels.
+Define the product user experience scenarios, identify risks and provide the appropriate solutions.
+Create different and numerous revenue streams.
+Create concrete plans with risk mitigation, deliverables & milestones.
+Work with the executive team to successfully raise a series A funding in 6 to 9 months.
+Coordinate and work closely with the engineering & AI team to successfully migrate and integrate new features with the mob app.
+Participate in the formulation of and follow-up on the training of junior and senior software engineers.
+Participate in the recruitment of key software engineering personnel in the company.
+Collaborate with system architects, business analysts and other stakeholders to design, develop, and maintain high-quality and user-friendly products.
+Participate in the deployment plans of validated codes on different system platforms.
+Provide near-accurate estimates for software development activities and ensure its suitability to strategic objectives of the product releases.
+Interface with other teams and stakeholders to align the requirements with software plans.
+Provide high-quality reports for senior engineers on both the work progress and development plans. ","Bachelor’s degree in Computer Science or other related majors.
+2+ years of experience in Mobile Apps product management.
+Experience in mobile-app development for cross-platform deployment.
+Strong UX/UI experience.
+Experience in user engagement.
+Experience with IOT.
+Experience in machine learning, computer vision, and AI is a plus.
+Familiarity of different software development processes such as agile development.
+Ability to multi-task and follow-up with tight project schedules.
+Internally motivated and possess the ability to motivate teams to achieve high altitudes.
+Excellent interpersonal and leadership skills to interact and lead junior engineers.
+Excellent written & spoken communication skills in English.",https://images.wuzzuf-data.net/files/company_logo/Fab-Minds-Egypt-56056-1597155070-sm.png
+Senior Python Developer,FlairsTech,Maadi, Cairo,Egypt,['Full Time'],Experienced,· 3 - 5 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Applications', 'Computer Science', 'Design', 'Engineering', 'Implementation', 'Software Development', 'Information Technology (IT)', 'Mathematics']","Propel your journey!
+Do you want to work in an exciting, rewarding, and collaborative environment where you are appreciated and valued?
+Are you passionate about IT, software development, business solutions, BPO, customer operations, etc.? Are Innovation, Talent, and Excellence part of your DNA?
+We are an international IT and Software Services company that provides exceptional experiences to customers around the world from our five offices in Egypt, Canada, and Poland. Over 70 global partners rely daily on our 800+ employees for superior Software Development and BPO/ Customer Operations services, as well as innovative Business Solutions.
+We are growing – and fast. Join us, and let's grow together! Apply now.
+Responsibilities:
+Software Developers with Python development and/or Networking Knowledge working on a support/maintenance type of environment.
+Solid understanding of fundamental design patterns and principles required for building scalable applications composed of reusable componentry.
+Key understanding of industry best practices with regard to the implementation of software security and data protection principles.
+Experience with user authentication and authorization between multiple systems, servers, and environments.
+Strong familiarity with SQL, relational DB schema design, and optimization to appropriately represent and support requisite business processes.
+Integration with data storage solutions includes relational databases, key-value stores, and a variety of AWS-based services.
+Significant experience and comfort with, at least, one Python web framework with a preference towards Django. Flask, Falcon, and other Python web framework experience are also highly valued.
+Proficient experience with building Test-Driven Development.
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3.
+Strong understanding of code versioning tools specifically Git and using Git Flow.
+Fundamental experience using Python in the context of machine learning or artificial intelligence (AI) systems.","Requirements:
+Bachelors degree in Software Engineering or Mathematics related discipline, with GPA of 3.0 or higher (or the equivalent)
+Strong experience with the design and implementation of low-latency, high-availability, and performant applications.
+3 or more years of experience Developing Software Applications within a small to the medium-sized team using primarily Python 2/3.",https://images.wuzzuf-data.net/files/company_logo/Flairstech-Egypt-1631-1624875613-sm.png
+Senior Full Stack Instructor,Confidential,,Cairo,Egypt,['Full Time'],Experienced,· 3 - 7 Yrs of Exp,"['IT/Software Development', 'Engineering - Telecom/Technology', 'Training/Instructor', 'PHP', 'PHP Development', 'PHP Web Development', 'Python', 'python development', 'CSS3', 'HTML5']","Supervise, educate and support students to help them accomplish learning benchmarks.
+Consistently meets the department's KPI.
+Continuously developing technical training courses based on the market need.
+Train new technical staff.
+Create new ways to increase customer satisfaction.
+Increase technical knowledge for the sales team and prepare technical proposals.
+Work with the marketing department to determine product-market fit and maximize marketing efficiency.
+Work to succeed in any software development projects or outsourcing deals.","University degree in Computer Science, Software Engineering, or similar
+6-7 years of experience.
+Strong knowledge with HTML5, CSS3, Bootstrap, JavaScript, React.js
+Strong software development knowledge of Python and PHP
+Strong Knowledge with SQL data base design
+EXPERT in building APIs using Django REST
+Good Knowledge with Versioning (GIT)
+Deployment (knowledgeable with hosting services preferably on Linux machines)
+Strong knowledge of MVVM
+The VUE framework is a must.
+V.Good knowledge of relational databases.
+Excellent knowledge of Design Patterns and OOP basics.
+Laravel framework is a must.
+Very good English.
+Presentable.
+Excellent Communication Skills.","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAulBMVEUAAAC/v7+/v7+vv8+vt8exvsu1usqzvcuyu8izu8izu8ezusizvMm0vMiyusqzusmzu8q0u8iyu8iyusizu8mzusiyvMmzvMq0usmzusmyvMi0u8mzu8q0u8mzvMmzu8m0usqzu8q0u8izu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8qzu8mzu8mzu8mzvMmzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8mzu8n///+qvQnLAAAAPHRSTlMABAgQICcwNjg8QEpQWGBkZXB0foCCiJScoKOmrLCyuLq/xM7Q09bZ4OHi5OXn6Ozu8PHy8/T29/r7/f6LHBTRAAAAAWJLR0Q90G1RWQAAAcpJREFUWMPtmFtPwkAYRBHWokUrrXipWuSmVLxWsIJ+//93earZB9FtSqhoZOdhhgnkEFiaASoVKyur1WunhXZKhoaCQgstSVsuOs+g59mtrVKgsXxSbKF/DqrEKLUm0JckSZ5IIiGeiJeloQPSJauVSpVwqYM1gl4qpXbJTaU2iV3q5d88/aHjOHtk3XHqxB51aE9/Oeg0juM78iqOr4g76nRp6I3v+0dk4PsBcUS9WQCq3M+q5b/82tzDv3+a1txH0c2HunMPb/029CEMw2z0T8LwJJt+6sNi0E4URTO5xfsa+kjpke0oahM96qOG9im3MsM7OdDszU4kwr0iL9+jRJJ8fE7+ATTwPC+VPn6soSPKIdn0vCZxSB1p6DGlLyke5EDH7+s2w1MNNQ4f0JQye79rbA/KBN1m1sbSwQMNNQ4f0IDSkTG+vdhlahy+wpdpg1mbSBff11Dj8AHdp3Rlgjfs6Zug18zaq6T4vYYahw/oPSWVV/w6B3rArD3LBX6qocbhA3pKuZBn/MAelAl6xqxNZYT3igxfjzKSKX626svUQtcW+vX7adU1qlrw+2n52lAlaKP4j7viUquA1lolqGb/Eray+gG9ASKwq1bDF0K7AAAAAElFTkSuQmCC"
+Application Support Engineer,eBSEG,Maadi, Cairo,Egypt,['Full Time'],Experienced,· 3 - 4 Yrs of Exp,"['Installation/Maintenance/Repair', 'IT/Software Development', 'Engineering - Telecom/Technology', 'Software Engineering', 'Deployment', 'Installation', 'Repair', 'Maintenance', 'Customer Support', 'Information Technology (IT)']","You will be responsible for providing application deployment and remote and/or onsite technical support for clients who have critical response time requirements for their business systems.
+You will work independently and as part of a team to urgently analyze technical issues, troubleshoot over the Email/Phone or via remote access or on site, and escalate problems when appropriate.
+Provide 1st & eventually 2nd level (after good training on company products) support for production issues across multiple applications, including problem identification, definition and implementation of short-term work around and coordination of long term software solution with business analysis and development team.
+Setup, configure and maintain monitoring for the deployed systems
+Maintain the company knowledge base related to deployment of new applications and resolutions for known issues
+Write administration/installation and configuration and other guides for the applications and train client staff on delivered systems
+Install and configure clients’ environments on request - onsite or offsite (In Egypt and Outside Egypt)
+Perform advances investigation of issues including source code investigation and network troubleshooting;
+Review Security Penetration Points of developed/delivered Systems
+Review Deployment against best practice check lists
+Monitor trouble management system to ensure all reported production issues are addressed according to published service level agreement.
+Diagnose and resolve day-to-day live system issues in timely manner based on their severity.
+Clear understanding of software development life-cycle methodologies and documentation standards
+Maintain ongoing communication with end-users, business analysts, QA team, and development team on reported issues
+Coordinate, Review and respond to system audit alerts in a timely manner
+Ability to write, modify, and execute SQL queries for SQL Server
+Configuration of local machines to clone client's production environment for troubleshooting reported issues
+Effectively record and monitor progress of all issues raised, providing feedback to the business users as required
+Liaise with other support/development teams to resolve cross system issues
+Maintain application support documentation
+Test configuration changes in a test environment prior to pushing into production
+Design and support application reports
+Maintain confidentiality with regard to the information being processed, stored or accessed
+Perform Stress Testing on Web Applications
+Provide evening and weekend support in response to needs of the applications being supported if necessary
+Read and recognize the function of SQL queries to perform troubleshooting related to application changes and releases","University degree in Software/Computer Engineering, Computer Sciences, or related field
+Minimum of 2 years’ experience in a software Industry with minimum 1 year in a support role
+Experience in supporting and maintaining applications on web and database platforms
+Solid working knowledge and building queries in SQL 2008+ databases is a must
+Fluent English is a MUST
+Solid experience in writing and performing T-SQL queries, joins, updates, etc.
+Ability to read and understand job-related materials such as instructions, specifications, references and manuals
+Ability to work with demanding users in a fast paced environment
+Excellent organizational, analytical, as well as oral and written communication skills
+Excellent interpersonal and communication skills (oral and written)
+Proven documentation skills with consistent accuracy of details
+Strong understanding of change control processes, time management, multi-tasking and attention to detail.
+Strong knowledge of Network and HTTP concepts
+Ability to investigate, analyze information and to draw conclusions in order to troubleshoot issues
+Experience in supporting a 24 x 7 hour environment
+Ability to learn and support new applications
+Ability to work independently or as part of a team
+Possibly to Travel for periods around 3 months or more
+Plus to have:
+The ability to explain complicated concepts in a simple manner
+Strong Knowledge of Security and Pen Test Concepts
+Knowledge of Stress Test tools and methodologies
+Flexibility to align work hours with business processes and afterhours system.
+Proven ability to understand a customer’s business environment and processes",https://images.wuzzuf-data.net/files/company_logo/eBSEG-Egypt-10608-sm.jpg
